@@ -7203,6 +7203,11 @@
             <ref role="3bR37D" node="4iIKqJTZ5HI" resolve="de.q60.mps.shadowmodels.runtimelang" />
           </node>
         </node>
+        <node concept="1SiIV0" id="70SL9i7AFgM" role="3bR37C">
+          <node concept="3bR9La" id="70SL9i7AFo1" role="1SiIV1">
+            <ref role="3bR37D" to="ffeo:3HV74$ebibC" resolve="jetbrains.mps.lang.text" />
+          </node>
+        </node>
       </node>
       <node concept="1E1JtD" id="BRK1N8p1qk" role="2G$12L">
         <property role="BnDLt" value="true" />
