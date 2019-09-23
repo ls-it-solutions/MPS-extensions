@@ -451,6 +451,11 @@
             <ref role="3bR37D" to="ffeo:1TaHNgiIbIQ" resolve="MPS.Core" />
           </node>
         </node>
+        <node concept="1SiIV0" id="70SL9i7CNPB" role="3bR37C">
+          <node concept="3bR9La" id="70SL9i7CNWM" role="1SiIV1">
+            <ref role="3bR37D" to="ffeo:1TaHNgiIbJb" resolve="MPS.Platform" />
+          </node>
+        </node>
         <node concept="3rtmxn" id="3xFG3bj5MkN" role="3bR31x">
           <node concept="3LXTmp" id="3xFG3bj5MkO" role="3rtmxm">
             <node concept="3qWCbU" id="3xFG3bj5MkP" role="3LXTna">
