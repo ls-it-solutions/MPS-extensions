@@ -123,6 +123,12 @@
         <child id="5228830074591675933" name="condition" index="2quwWy" />
       </concept>
       <concept id="5228830074592935481" name="de.q60.mps.shadowmodels.transformation.structure.SingleInputRef" flags="ng" index="2qrjs6" />
+      <concept id="5228830074594383324" name="de.q60.mps.shadowmodels.transformation.structure.GenplanRuleRelation_Together" flags="ng" index="2rwPNz" />
+      <concept id="5228830074594383314" name="de.q60.mps.shadowmodels.transformation.structure.GenplanRule" flags="ng" index="2rwPNH">
+        <reference id="5228830074594383319" name="right" index="2rwPNC" />
+        <reference id="5228830074594383317" name="left" index="2rwPNE" />
+        <child id="5228830074594383326" name="relation" index="2rwPNx" />
+      </concept>
       <concept id="5228830074595062510" name="de.q60.mps.shadowmodels.transformation.structure.GoalCall" flags="ng" index="2rzFJh">
         <reference id="5228830074595062515" name="goal" index="2rzFJc" />
         <child id="5228830074595062513" name="input" index="2rzFJe" />
@@ -2112,6 +2118,7 @@
     <node concept="2OrE70" id="4ygyjZjdact" role="02uzr" />
     <node concept="1d2ef" id="4ygyjZj7uJu" role="02uzr">
       <ref role="1d2e9" node="4ygyjZj7vOL" resolve="toJava" />
+      <node concept="2OrE70" id="2HTxpGQdhuT" role="1dsjU" />
       <node concept="2qhRzR" id="4ygyjZj8LUZ" role="1dsjU">
         <ref role="2qhRDY" to="prps:6QszampOHpW" resolve="UntilStatement" />
         <node concept="027og" id="4ygyjZj8LV3" role="2qhRW7">
@@ -2695,6 +2702,11 @@
       </node>
     </node>
     <node concept="2OrE70" id="4ygyjZjeEER" role="02uzr" />
+    <node concept="2rwPNH" id="2HTxpGQdeeU" role="02uzr">
+      <ref role="2rwPNE" node="4ygyjZj7uJu" />
+      <ref role="2rwPNC" node="4ygyjZj7uJu" />
+      <node concept="2rwPNz" id="2HTxpGQdek4" role="2rwPNx" />
+    </node>
     <node concept="2OrE70" id="4ygyjZj7d6x" role="02uzr" />
     <node concept="02vpq" id="4ygyjZj7d6y" role="02uzr">
       <property role="TrG5h" value="throwError" />
