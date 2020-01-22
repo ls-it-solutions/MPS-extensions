@@ -11793,7 +11793,7 @@
             <node concept="raruj" id="2HTxpGR4yjv" role="lGtFl" />
           </node>
           <node concept="3khUAW" id="4ygyjZjm1fp" role="3khUj0">
-            <property role="TrG5h" value="goal_mc" />
+            <property role="TrG5h" value="goal/mc" />
             <property role="1rq3kj" value="true" />
             <node concept="3uibUv" id="2HTxpGQaQwG" role="3kv9ev">
               <ref role="3uigEE" to="kgaa:4ygyjZjm3$j" resolve="MappingConfiguration" />
@@ -11809,7 +11809,7 @@
                   <node concept="3clFbF" id="4ygyjZjm31j" role="3cqZAp">
                     <node concept="3cpWs3" id="4ygyjZjpc1y" role="3clFbG">
                       <node concept="Xl_RD" id="4ygyjZjpc1C" role="3uHU7w">
-                        <property role="Xl_RC" value="_mc" />
+                        <property role="Xl_RC" value="/mc" />
                       </node>
                       <node concept="2OqwBi" id="4ygyjZjm3fz" role="3uHU7B">
                         <node concept="30H73N" id="4ygyjZjm31i" role="2Oq$k0" />
@@ -11824,7 +11824,7 @@
             </node>
           </node>
           <node concept="3khUAW" id="2HTxpGQaQzV" role="3khUj0">
-            <property role="TrG5h" value="goal_rules" />
+            <property role="TrG5h" value="goal/rules" />
             <property role="1rq3kj" value="true" />
             <node concept="3uibUv" id="48D0X9Jx6hr" role="3kv9ev">
               <ref role="3uigEE" to="kgaa:4ygyjZjm85J" resolve="GenplanRule" />
@@ -11840,7 +11840,7 @@
                   <node concept="3clFbF" id="2HTxpGQaQ$1" role="3cqZAp">
                     <node concept="3cpWs3" id="2HTxpGQaQ$2" role="3clFbG">
                       <node concept="Xl_RD" id="2HTxpGQaQ$3" role="3uHU7w">
-                        <property role="Xl_RC" value="_rules" />
+                        <property role="Xl_RC" value="/rules" />
                       </node>
                       <node concept="2OqwBi" id="2HTxpGQaQ$4" role="3uHU7B">
                         <node concept="30H73N" id="2HTxpGQaQ$5" role="2Oq$k0" />
@@ -12036,7 +12036,7 @@
         <node concept="3khU$T" id="4ygyjZjpd1L" role="1Koe22">
           <property role="TrG5h" value="m" />
           <node concept="3ku1Nf" id="4ygyjZjpd1N" role="3khUj0">
-            <ref role="3ku1L4" node="4ygyjZjm1fp" resolve="goal_mc" />
+            <ref role="3ku1L4" node="4ygyjZjm1fp" resolve="goal/mc" />
             <node concept="3clFbS" id="4ygyjZjpd1O" role="3ku1Le">
               <node concept="3cpWs8" id="4ygyjZjpzvK" role="3cqZAp">
                 <node concept="3cpWsn" id="4ygyjZjpzvL" role="3cpWs9">
@@ -12568,7 +12568,7 @@
         <node concept="3khU$T" id="48D0X9Jx6hl" role="1Koe22">
           <property role="TrG5h" value="m" />
           <node concept="3ku1Nf" id="48D0X9Jx6hn" role="3khUj0">
-            <ref role="3ku1L4" node="2HTxpGQaQzV" resolve="goal_rules" />
+            <ref role="3ku1L4" node="2HTxpGQaQzV" resolve="goal/rules" />
             <node concept="3clFbS" id="48D0X9Jx6ho" role="3ku1Le">
               <node concept="3cpWs6" id="48D0X9Jx6_b" role="3cqZAp">
                 <node concept="2ShNRf" id="48D0X9Jx6_j" role="3cqZAk">
@@ -12722,7 +12722,7 @@
         <node concept="3khU$T" id="48D0X9JzxOL" role="1Koe22">
           <property role="TrG5h" value="m" />
           <node concept="3ku1Nf" id="48D0X9JzxOM" role="3khUj0">
-            <ref role="3ku1L4" node="2HTxpGQaQzV" resolve="goal_rules" />
+            <ref role="3ku1L4" node="2HTxpGQaQzV" resolve="goal/rules" />
             <node concept="3clFbS" id="48D0X9JzxON" role="3ku1Le">
               <node concept="3cpWs6" id="48D0X9JzxOO" role="3cqZAp">
                 <node concept="2ShNRf" id="48D0X9JzxOP" role="3cqZAk">
@@ -12876,7 +12876,7 @@
         <node concept="3khU$T" id="48D0X9JzyhN" role="1Koe22">
           <property role="TrG5h" value="m" />
           <node concept="3ku1Nf" id="48D0X9JzyhO" role="3khUj0">
-            <ref role="3ku1L4" node="2HTxpGQaQzV" resolve="goal_rules" />
+            <ref role="3ku1L4" node="2HTxpGQaQzV" resolve="goal/rules" />
             <node concept="3clFbS" id="48D0X9JzyhP" role="3ku1Le">
               <node concept="3cpWs6" id="48D0X9JzyhQ" role="3cqZAp">
                 <node concept="2ShNRf" id="48D0X9JzyhR" role="3cqZAk">
