@@ -40694,6 +40694,12 @@
       <node concept="3Tm1VV" id="2HTxpGQD$5N" role="1B3o_S" />
       <node concept="3clFbS" id="2HTxpGQD$5O" role="3clF47" />
     </node>
+    <node concept="3clFb_" id="65qrXtnpfoU" role="jymVt">
+      <property role="TrG5h" value="getTraceInfo" />
+      <node concept="17QB3L" id="65qrXtnpfoV" role="3clF45" />
+      <node concept="3Tm1VV" id="65qrXtnpfoW" role="1B3o_S" />
+      <node concept="3clFbS" id="65qrXtnpfoX" role="3clF47" />
+    </node>
     <node concept="3Tm1VV" id="2HTxpGQffmR" role="1B3o_S" />
     <node concept="3uibUv" id="2HTxpGQffo$" role="3HQHJm">
       <ref role="3uigEE" node="2$QnGbtLuzE" resolve="ITransformationCall" />
