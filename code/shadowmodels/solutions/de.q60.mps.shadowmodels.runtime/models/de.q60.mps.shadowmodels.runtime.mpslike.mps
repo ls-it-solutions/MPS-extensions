@@ -696,6 +696,21 @@
       </node>
     </node>
     <node concept="2tJIrI" id="65qrXtnsGXw" role="jymVt" />
+    <node concept="3clFb_" id="29V55Kyv0uH" role="jymVt">
+      <property role="TrG5h" value="getTarget" />
+      <property role="1EzhhJ" value="true" />
+      <node concept="37vLTG" id="29V55KyM0mj" role="3clF46">
+        <property role="TrG5h" value="call" />
+        <node concept="3uibUv" id="29V55KyM0mk" role="1tU5fm">
+          <ref role="3uigEE" to="nv3w:5gTrVpGiXy3" resolve="DirectTCall" />
+        </node>
+      </node>
+      <node concept="3uibUv" id="29V55KyMafn" role="3clF45">
+        <ref role="3uigEE" to="mjcn:5gTrVpGiHIH" resolve="INode" />
+      </node>
+      <node concept="3Tm1VV" id="29V55Kyv0uK" role="1B3o_S" />
+      <node concept="3clFbS" id="29V55Kyv0uL" role="3clF47" />
+    </node>
     <node concept="3clFb_" id="65qrXtnsGXx" role="jymVt">
       <property role="TrG5h" value="apply" />
       <property role="1EzhhJ" value="true" />
@@ -707,8 +722,8 @@
       </node>
       <node concept="37vLTG" id="65qrXtnsGX$" role="3clF46">
         <property role="TrG5h" value="result" />
-        <node concept="3uibUv" id="65qrXtnsGX_" role="1tU5fm">
-          <ref role="3uigEE" to="nv3w:5gTrVpGiHGv" resolve="TransformationResult" />
+        <node concept="3uibUv" id="29V55KyA5oc" role="1tU5fm">
+          <ref role="3uigEE" to="nv3w:5gTrVpGiJUq" resolve="TransformationResult.ResultElement" />
         </node>
       </node>
       <node concept="3cqZAl" id="65qrXtnsGXA" role="3clF45" />
